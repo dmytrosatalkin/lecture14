@@ -1,0 +1,11 @@
+
+.main{
+   font-family: 'Segoe UI';
+    background-color: rgb(19, 51, 155);
+    padding: 30px;
+    color:rgb(250, 228, 33);
+    font-size: 30px;
+   border-style: dashed;
+   border-width: 2px 2px 2px 2px;
+   width: 25%;
+}
